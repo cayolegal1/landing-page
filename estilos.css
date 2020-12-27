@@ -164,6 +164,11 @@ ul {
   top: 1722px;
 }
 
+.boton{
+position: absolute;
+
+}
+
 #span {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
@@ -176,6 +181,7 @@ ul {
   position: absolute;
   top: 1780px;
   left: 748px;
+  
 }
 #span1 {
   position: absolute;
